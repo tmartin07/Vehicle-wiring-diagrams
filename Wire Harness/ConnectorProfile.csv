@@ -1,0 +1,34 @@
+Connector Schematic No.,Destination,Connector Part No.,Manufacturer,Number of Positions,Connector Type
+CN-001,Front Suspension Travel,,,,
+CN-002,Rear Suspension Travel,,,,
+CN-003,Steering Travel,,,,
+CN-004,Ambient Temp.,43025-0200,Molex,2,"Microfit 3.0 Receptable Housing, Dual Row, 2 Circuits, Halogen Free"
+CN-005,Front Brake Pressure,,,,
+CN-006,Rear Brake Pressure,,,,
+CN-007,Front Accelerometer,43025-0600,Molex,,"Microfit 3.0 Receptable Housing, Dual Row, 6 Circuits, Halogen Free"
+CN-008,Rear Accelerometer,43025-0600,Molex,,"Microfit 3.0 Receptable Housing, Dual Row, 6 Circuits, Halogen Free"
+CN-009,Front Enclosure,,,,
+CN-010,DDU-9,AS 616-35 SN,Deutsch,55,PLUG BOOT TERMIN'N TYPE 6
+CN-011,M60,ASDD 612-41 SN/SA,Deutsch,,
+CN-012,IMU,F 02U B00 240-01,Bosch,4,AMP 114-18063-076 
+CN-013,Front Wheel Speed,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-014,Rear Wheel Speed,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-015,BIM Box 1,1542761,Pheonix Contact,4,M12-5
+CN-016,BIM Box 2,1542761,Pheonix Contact,4,M12-5
+CN-017,Coolant Temp. Motor Inlet,D 261 205 337-01,Bosch,2,NTC M12-H
+CN-018,Coolant Temp. Motor Outlet,D 261 205 337-01,Bosch,2,NTC M12-H
+CN-019,Coolant Temp. Motor Controller Inlet,D 261 205 337-01,Bosch,2,NTC M12-H
+CN-020,Coolant Temp. Motor Controller Outlet,D 261 205 337-01,Bosch,2,NTC M12-H
+CN-021,Coolant Flow Rate Loop 1,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-022,Coolant Flow Rate Loop 2,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-023,Front Tire Temp. 1,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-024,Rear Tire Temp. 1,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-025,Front Tire Temp. 2,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-026,Rear Tire Temp. 2,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-027,Throttle Position,43025-0200,Molex,2,"Microfit 3.0 Receptable Housing, Dual Row, 2 Circuits, Halogen Free"
+CN-028,Throttle Enable,43025-0200,Molex,2,"Microfit 3.0 Receptable Housing, Dual Row, 2 Circuits, Halogen Free"
+CN-029,Motor Coolant Pump,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
+CN-030,Motor Ctrl Coolant Pump,,,,
+CN-031,GPS,,,,
+CN-032,Fans 1-3,43025-0200,Molex,2,"Microfit 3.0 Receptable Housing, Dual Row, 2 Circuits, Halogen Free"
+CN-033,Fans 4-6,43025-0200,Molex,2,"Microfit 3.0 Receptable Housing, Dual Row, 2 Circuits, Halogen Free"
