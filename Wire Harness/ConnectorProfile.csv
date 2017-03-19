@@ -3,16 +3,16 @@ CN-001,Front Suspension Travel,,,,
 CN-002,Rear Suspension Travel,,,,
 CN-003,Steering Travel,,,,
 CN-004,Ambient Temp.,43025-0200,Molex,2,"Microfit 3.0 Receptable Housing, Dual Row, 2 Circuits, Halogen Free"
-CN-005,Front Brake Pressure,,,,
-CN-006,Rear Brake Pressure,,,,
-CN-007,Front Accelerometer,43025-0600,Molex,,"Microfit 3.0 Receptable Housing, Dual Row, 6 Circuits, Halogen Free"
-CN-008,Rear Accelerometer,43025-0600,Molex,,"Microfit 3.0 Receptable Housing, Dual Row, 6 Circuits, Halogen Free"
+CN-005,Front Brake Pressure,ASL 0-06-05SC-HE,Deutsch,3,
+CN-006,Rear Brake Pressure,ASL 0-06-05SC-HE,Deutsch,3,
+CN-007,Front Accelerometer,43025-0600,Molex,5,"Microfit 3.0 Receptable Housing, Dual Row, 6 Circuits, Halogen Free"
+CN-008,Rear Accelerometer,43025-0600,Molex,5,"Microfit 3.0 Receptable Housing, Dual Row, 6 Circuits, Halogen Free"
 CN-009,Front Enclosure,AS 0 12-35 P G,Deutsch,22,
 CN-010,Front Enclosure,AS 0 12-04 P B,Deutsch,4,
 CN-011,DDU-9,AS 616-35 SN,Deutsch,55,
 CN-012,M60,ASDD 612-41 SA,Deutsch,41,
 CN-013,M60,ASDD 612-41 SN,Deutsch,41,
-CN-014,IMU,F 02U B00 240-01,Bosch,4,AMP 114-18063-076 
+CN-014,IMU,ASL606-05SN,Bosch,4,AMP 114-18063-076 
 CN-015,Front Wheel Speed,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
 CN-016,Rear Wheel Speed,43025-0400,Molex,3,"Microfit 3.0 Receptable Housing, Dual Row, 4 Circuits, Halogen Free"
 CN-017,BIM Box 1,1542761,Pheonix Contact,4,M12-5
