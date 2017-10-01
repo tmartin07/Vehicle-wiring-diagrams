@@ -1,4 +1,4 @@
 Vehicle-wiring-diagrams
 =======================
 
-Block diagrams and wiring diagrams between electrical modules on the vehicle.
+OBSOLETE: USE FILES FROM BOX INSTEAD - Block diagrams and wiring diagrams between electrical modules on the vehicle.
